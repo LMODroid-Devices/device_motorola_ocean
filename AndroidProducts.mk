@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_ocean.mk
+    $(LOCAL_DIR)/lmodroid_ocean.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_ocean-eng \
-    lineage_ocean-user \
-    lineage_ocean-userdebug
+    lmodroid_ocean-eng \
+    lmodroid_ocean-user \
+    lmodroid_ocean-userdebug
