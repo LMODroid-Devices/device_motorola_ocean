@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_ocean.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_ocean-eng \
-    lmodroid_ocean-user \
-    lmodroid_ocean-userdebug
